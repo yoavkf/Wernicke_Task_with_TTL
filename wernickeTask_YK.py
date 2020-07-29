@@ -158,6 +158,9 @@ if __name__ == "__main__":
         # Play prompt
         print(counter + 1)
         digIO.sendDigitalWord(counter+1)  # excel numbering starts in 1
+        digIO.sendDigitalWord(0)  # excel numbering starts in 1
+        digIO.sendDigitalWord(int(prompt[:-4]))  # excel numbering starts in 1
+
         prompt_start_time = datetime.now().strftime("%H_%M_%S_%f")
         data = wf.readframes(chunk)
         while len(data) > 0:
@@ -168,16 +171,16 @@ if __name__ == "__main__":
         wf.close()
         digIO.sendDigitalWord(0)
         # log:
-        rows = [counter, prompt, prompt_start_time]
+        rows = [counter + 1, prompt, prompt_start_time]
         log.writerow(rows)
 
         # Pause
-        if prompt == 'repeat.wav' or prompt == 'lastword.wav' or prompt in questions:
+        if prompt == '0481.wav' or prompt == '0482.wav' or prompt == 'repeat.wav' or prompt == 'lastword.wav' or prompt in questions:
             wait = True
             while wait:
                 time.sleep(0.1)
         else:
-            time.sleep(0.5)
+            time.sleep(0.3)
 
         if repeat:
             repeat = False
