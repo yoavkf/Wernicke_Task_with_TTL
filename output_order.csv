@@ -1,0 +1,413 @@
+,index,prompt_file,type,prompt
+0,0,0173.txt,Sentence,This argument has no conclusion.
+1,1,0189.txt,Sentence,Her hair is droopy in the heat.
+2,2,0033.txt,Sentence,He had respect for her kindness.
+3,3,0482.txt,repeat sent.,repeat last sentence.
+4,4,0365.txt,jabberwa,The erilory was in a slunt.
+5,5,0177.txt,Sentence,The distinctive taste of the cereal did not please him.
+6,6,0482.txt,repeat sent.,repeat last sentence.
+7,7,0161.txt,Sentence,The motive was serious enough for him to deceive his friend. 
+8,8,0325.txt,wordlist,Be are grazed subconscious the cat.
+9,9,0185.txt,Sentence,She dangerously teetered on the broken chair.
+10,10,0482.txt,repeat sent.,repeat last sentence.
+11,11,0037.txt,Sentence,The hospital wanted to hire a new doctor. 
+12,12,0077.txt,question,What did the hospital want to do?
+13,13,0405.txt,non_word,Oot stesh comshugion metter losight outsharts.
+14,14,0181.txt,Sentence,The only bird she could see was the parrot.
+15,15,0482.txt,repeat sent.,repeat last sentence.
+16,16,0165.txt,Sentence,The economy was in a slump.
+17,17,0482.txt,repeat sent.,repeat last sentence.
+18,18,0169.txt,Sentence,His dissertation was in the field of material sciences.
+19,19,0193.txt,Sentence,His manliness and kindness made him irresistible.
+20,20,0482.txt,repeat sent.,repeat last sentence.
+21,21,0006.txt,Sentence,The worker had worked for many years as a professional.
+22,22,0046.txt,question,How long did the worker work as a professional?
+23,23,0482.txt,repeat sent.,repeat last sentence.
+24,24,0366.txt,jabberwa,The lumberjoms neeps to hims a ney prohictional.
+25,25,0162.txt,Sentence,"Unprejudiced and unaware, she went full throttle. "
+26,26,0166.txt,Sentence,The lumberyard needs to hire a new a professional. 
+27,27,0170.txt,Sentence,The art exhibition left many breathless.
+28,28,0482.txt,repeat sent.,repeat last sentence.
+29,29,0326.txt,wordlist,Nighttime jungle the nutritional breathless heat in of left.
+30,30,0178.txt,Sentence,She tries to get a lot of nutritional value out of her food.
+31,31,0182.txt,Sentence,A snowboarder got stuck on the mountain.
+32,32,0482.txt,repeat sent.,repeat last sentence.
+33,33,0194.txt,Sentence,The cat was feeling grumpy and scratched the chair.
+34,34,0406.txt,non_word,Hims retationtrox burrok tha sevicion thi motarm fos.
+35,35,0002.txt,Sentence,She was unaware of how oblivious he really was.
+36,36,0042.txt,question,What was she unaware of?
+37,37,0186.txt,Sentence,I was displeased with how outwardly angry he was. 
+38,38,0174.txt,Sentence,The suspect attempted to run. 
+39,39,0482.txt,repeat sent.,repeat last sentence.
+40,40,0190.txt,Sentence,He liked to wash himself with bar soap more. 
+41,41,0192.txt,Sentence,His clothes are often made of flannel. 
+42,42,0179.txt,Sentence,He thought he could cook when he bought the pan.
+43,43,0482.txt,repeat sent.,repeat last sentence.
+44,44,0195.txt,Sentence,Her subconscious impacted her personality in many ways.
+45,45,0010.txt,Sentence,The poetry workshop was a work of art in itself.
+46,46,0050.txt,question,What was a work of art in itself?
+47,47,0163.txt,Sentence,The obligation was harmless.
+48,48,0171.txt,Sentence,The device was disconnected from the power outlet.
+49,49,0482.txt,repeat sent.,repeat last sentence.
+50,50,0187.txt,Sentence,He saw himself as weak and unattractive. 
+51,51,0482.txt,repeat sent.,repeat last sentence.
+52,52,0327.txt,wordlist,Soap he bird the the the himself the.
+53,53,0167.txt,Sentence,She wants to borrow some of his money. 
+54,54,0014.txt,Sentence,The suspect was dead before they got to him.
+55,55,0054.txt,question,Who was dead before they got to him?
+56,56,0367.txt,jabberwa,She wangs to burrok solt of his runey.
+57,57,0183.txt,Sentence,The weather in autumn is bearable. 
+58,58,0482.txt,repeat sent.,repeat last sentence.
+59,59,0407.txt,non_word,Ib kerness scritched hu thi cle os charp.
+60,60,0191.txt,Sentence,I want to wear a handkerchief tonight.
+61,61,0164.txt,Sentence,Their ignorance stems from their nighttime debauchery. 
+62,62,0180.txt,Sentence,Sugar and butter are two of his biggest cravings.
+63,63,0482.txt,repeat sent.,repeat last sentence.
+64,64,0018.txt,Sentence,She eats junk food on the weekends.
+65,65,0058.txt,question,What does she do on the weekends?
+66,66,0368.txt,jabberwa,Filluming the plap is empenteel for miksess.
+67,67,0168.txt,Sentence,Following the plan is essential for success. 
+68,68,0188.txt,Sentence,The goblin fled from the fight.
+69,69,0482.txt,repeat sent.,repeat last sentence.
+70,70,0328.txt,wordlist,Harmless was a was no the how.
+71,71,0175.txt,Sentence,A decision would be made today during the trial. 
+72,72,0022.txt,Sentence,The trail went all the way up the mountain.
+73,73,0062.txt,question,Where did the trail go?
+74,74,0408.txt,non_word,Ip hig mabronscious rup oy a fror.
+75,75,0172.txt,Sentence,A hybrid car has a different kind of engine.
+76,76,0482.txt,repeat sent.,repeat last sentence.
+77,77,0184.txt,Sentence,The gazelle grazed at the outskirts of the jungle.
+78,78,0176.txt,Sentence,The applicability of the law is murky in this situation.
+79,79,0482.txt,repeat sent.,repeat last sentence.
+80,80,0005.txt,Sentence,The boom gave the economy a big boost.
+81,81,0045.txt,question,What gave the economy a big boost?
+82,82,0117.txt,Sentence,A young brilliant doctor performed the surgery.
+83,83,0361.txt,jabberwa,The motarm was pevilies eniefs for hig to demieve his thiend.
+84,84,0081.txt,Sentence,The plan was to bribe and deceive him quickly. 
+85,85,0482.txt,repeat sent.,repeat last sentence.
+86,86,0085.txt,Sentence,The economy spiked unexpectedly.
+87,87,0089.txt,Sentence,The student studied many different kinds of science.
+88,88,0482.txt,repeat sent.,repeat last sentence.
+89,89,0321.txt,wordlist,Goblin from power want clothes liked wound murky for friend see.
+90,90,0097.txt,Sentence,The spicy taste lingered in her mouth.
+91,91,0482.txt,repeat sent.,repeat last sentence.
+92,92,0101.txt,Sentence,The nest was just big enough for the bird.
+93,93,0141.txt,question,What was big enough for the bird?
+94,94,0113.txt,Sentence,Kindness and loyalty are two things you need in a partner.
+95,95,0401.txt,non_word,Nat neeps breechnless weecher demangeony devall le boulds biscitenial ney thi.
+96,96,0001.txt,Sentence,His ploy was to deceive the old lady over a long period of time. 
+97,97,0041.txt,question,What was his ploy?
+98,98,0105.txt,Sentence,The broken leg made the table unstable.
+99,99,0093.txt,Sentence,The first argument has a better explanation.
+100,100,0482.txt,repeat sent.,repeat last sentence.
+101,101,0109.txt,Sentence,His moustache is a different color from the hair on his head.
+102,102,0114.txt,Sentence,The baby was feeling fussy all day.
+103,103,0098.txt,Sentence,He felt fat after eating that much food.
+104,104,0482.txt,repeat sent.,repeat last sentence.
+105,105,0009.txt,Sentence,The research facility is dedicated to studies of natural science.
+106,106,0049.txt,question,What is the research facility dedicated to?
+107,107,0086.txt,Sentence,The seamstress was a true professional. 
+108,108,0482.txt,repeat sent.,repeat last sentence.
+109,109,0094.txt,Sentence,The police still didn't have a prime suspect.
+110,110,0106.txt,Sentence,She's angry because I offended her. 
+111,111,0482.txt,repeat sent.,repeat last sentence.
+112,112,0322.txt,wordlist,Pan essential patient a fight droopy to.
+113,113,0090.txt,Sentence,The tradition of art in this school is strong. 
+114,114,0013.txt,Sentence,The new evidence helped his argument.
+115,115,0053.txt,question,What helped his argument?
+116,116,0362.txt,jabberwa,"Unprezufyped and unapyll, she wegs fuds sprostle."
+117,117,0102.txt,Sentence,The glacier was at the top of the mountain.
+118,118,0482.txt,repeat sent.,repeat last sentence.
+119,119,0402.txt,non_word,Stups tha wook thi her wam ter.
+120,120,0082.txt,Sentence,"She was unashamed of her status, perhaps because she was unaware of it."
+121,121,0482.txt,repeat sent.,repeat last sentence.
+122,122,0110.txt,Sentence,The dishwasher can wash all the dishes.
+123,123,0095.txt,Sentence,The lawyer meditated before the trial.
+124,124,0017.txt,Sentence,She thought the hot chocolate had a rich taste. 
+125,125,0057.txt,question,What did she think the hot chocolate had?
+126,126,0363.txt,jabberwa,The odmisition was hashness.
+127,127,0083.txt,Sentence,The contract outlined their obligation as guardians. 
+128,128,0482.txt,repeat sent.,repeat last sentence.
+129,129,0107.txt,Sentence,The competition left her feeling weak and mediocre. 
+130,130,0482.txt,repeat sent.,repeat last sentence.
+131,131,0323.txt,wordlist,Many not some unaware.
+132,132,0091.txt,Sentence,The device was wired in a very simple way. 
+133,133,0482.txt,repeat sent.,repeat last sentence.
+134,134,0021.txt,Sentence,The bird flew around the cage.
+135,135,0061.txt,question,Where did the bird fly?
+136,136,0403.txt,non_word,Unabactive diny pliaftes ter.
+137,137,0087.txt,Sentence,A good retirement requires having saved a lot of money.
+138,138,0482.txt,repeat sent.,repeat last sentence.
+139,139,0111.txt,Sentence,When you wear silk you have to be careful.
+140,140,0482.txt,repeat sent.,repeat last sentence.
+141,141,0115.txt,Sentence,His compulsive personality is one reason why he is so neat.
+142,142,0099.txt,Sentence,"If she wanted to cook, she would need a larger fridge. "
+143,143,0482.txt,repeat sent.,repeat last sentence.
+144,144,0103.txt,Sentence,Summer weather brightens everyone's mood.
+145,145,0029.txt,Sentence,His blond hair looked very attractive against a dark blue shirt. 
+146,146,0069.txt,question,What looked attractive against a dark blue shirt?
+147,147,0104.txt,Sentence,A new species of frog were recently discovered in the jungle. 
+148,148,0482.txt,repeat sent.,repeat last sentence.
+149,149,0364.txt,jabberwa,Their ilvorants stesh from their nightlids demangeony.
+150,150,0108.txt,Sentence,The gladiator did not want to fight. 
+151,151,0112.txt,Sentence,That hat doesn't match his clothes. 
+152,152,0116.txt,Sentence,The couple had recently labeled their relationship.
+153,153,0482.txt,repeat sent.,repeat last sentence.
+154,154,0324.txt,wordlist,The during following his was of more.
+155,155,0084.txt,Sentence,His complete ignorance explains his inefficiency. 
+156,156,0482.txt,repeat sent.,repeat last sentence.
+157,157,0088.txt,Sentence,The plan resulted in a total transformation. 
+158,158,0100.txt,Sentence,Plain sugar is the only kind he uses.
+159,159,0404.txt,non_word,Thi bebon thour tha wegs ir thi.
+160,160,0025.txt,Sentence,The missing mirror turned out to be broken.
+161,161,0065.txt,question,What turned out to be broken?
+162,162,0092.txt,Sentence,The spare tire is up by the engine.
+163,163,0482.txt,repeat sent.,repeat last sentence.
+164,164,0096.txt,Sentence,He will enforce the law if she breaks it. 
+165,165,0209.txt,Sentence,Economics is a kind of social science. 
+166,166,0482.txt,repeat sent.,repeat last sentence.
+167,167,0233.txt,Sentence,Her meekness outweighed her kindness.
+168,168,0482.txt,repeat sent.,repeat last sentence.
+169,169,0213.txt,Sentence,The statement supports the second argument better. 
+170,170,0026.txt,Sentence,He panicked at how angry his boss was. 
+171,171,0066.txt,question,Why did he panic?
+172,172,0221.txt,Sentence,The bird poked its head out of the hatch.
+173,173,0482.txt,repeat sent.,repeat last sentence.
+174,174,0229.txt,Sentence,The model's hair was voluminous. 
+175,175,0201.txt,Sentence,"She did not want to deceive him, but she was too far into the operative now. "
+176,176,0482.txt,repeat sent.,repeat last sentence.
+177,177,0329.txt,wordlist,The money impacted enough often to a attempted relationship.
+178,178,0225.txt,Sentence,The disorganized room was full of broken things.
+179,179,0030.txt,Sentence,"You can wash the counter as much as you would like, but it will never be sterile."
+180,180,0070.txt,question,What will never be sterile?
+181,181,0369.txt,jabberwa,His denmerlation was in the fieks of potenaal pliaftes.
+182,182,0237.txt,Sentence,There is no such thing as an occupational doctor. 
+183,183,0482.txt,repeat sent.,repeat last sentence.
+184,184,0409.txt,non_word,Kimp sountail ans solt a disiard ro tha thi.
+185,185,0217.txt,Sentence,Her delicate palate reacted strongly to the taste of the unfamiliar fruit. 
+186,186,0205.txt,Sentence,The demand for carpools was not predicted by the economy.
+187,187,0482.txt,repeat sent.,repeat last sentence.
+188,188,0230.txt,Sentence,"After she could wash herself, she finally felt clean."
+189,189,0034.txt,Sentence,She was feeling a bit afraid in light of finals coming up.
+190,190,0074.txt,question,What was she afraid of?
+191,191,0370.txt,jabberwa,The ard enfisation left diny breechless.
+192,192,0218.txt,Sentence,The cat food today consisted of kibble.
+193,193,0202.txt,Sentence,"Inarticulate and unaware of current issues, he makes a terrible candidate. "
+194,194,0482.txt,repeat sent.,repeat last sentence.
+195,195,0330.txt,wordlist,He pain was she the their.
+196,196,0226.txt,Sentence,"Dissatisfied and angry, he sulked in the corner. "
+197,197,0482.txt,repeat sent.,repeat last sentence.
+198,198,0410.txt,non_word,Tha pector bilt gazafts tha tas.
+199,199,0222.txt,Sentence,The mountain had a beautiful summit.
+200,200,0206.txt,Sentence,"The beekeeper, always a professional, stayed calm as they spoke. "
+201,201,0482.txt,repeat sent.,repeat last sentence.
+202,202,0210.txt,Sentence,The contemporary art left much to be desired. 
+203,203,0482.txt,repeat sent.,repeat last sentence.
+204,204,0234.txt,Sentence,His temperamental mood swings had her feeling sad.
+205,205,0007.txt,Sentence,I will pay you money for this. 
+206,206,0047.txt,question,What will I pay you for this?
+207,207,0239.txt,Sentence,"Unless caused by impact, a nosebleed doesn't usually cause pain. "
+208,208,0371.txt,jabberwa,The devall was dispenkacted from the momer earlet.
+209,209,0203.txt,Sentence,The stockholder has an obligation to keep his word. 
+210,210,0482.txt,repeat sent.,repeat last sentence.
+211,211,0207.txt,Sentence,His paycheck means more money for the kids. 
+212,212,0211.txt,Sentence,The switch on the device popped off unexpectedly.
+213,213,0482.txt,repeat sent.,repeat last sentence.
+214,214,0331.txt,wordlist,Situation gazelle stems many irresistible wants with the.
+215,215,0219.txt,Sentence,The steaming pot revealed how well she could cook. 
+216,216,0482.txt,repeat sent.,repeat last sentence.
+217,217,0223.txt,Sentence,The weather report did not predict the blizzard.
+218,218,0235.txt,Sentence,His borderline personality disorder was recently diagnosed. 
+219,219,0411.txt,non_word,Oy disproused pantot hus denmerlation abs snowlielder jo.
+220,220,0003.txt,Sentence,"While reserved, he owned up to his obligation eventually."
+221,221,0043.txt,question,What did he own up to?
+222,222,0227.txt,Sentence,The project had a weak foundation and overall was poorly managed.
+223,223,0215.txt,Sentence,The defendant in the trial got nervous.
+224,224,0482.txt,repeat sent.,repeat last sentence.
+225,225,0231.txt,Sentence,I can't wear something unbuttoned to meet his parents.
+226,226,0236.txt,Sentence,The brother's relationship was chummy. 
+227,227,0220.txt,Sentence,Unrefined sugar has a grittier taste.
+228,228,0482.txt,repeat sent.,repeat last sentence.
+229,229,0011.txt,Sentence,She didn't understand how to position the antenna so that the device would work.
+230,230,0051.txt,question,What didn't she understand?
+231,231,0208.txt,Sentence,The expulsion led to a change of plan. 
+232,232,0216.txt,Sentence,House arrest is a restriction that the law places on particular criminals. 
+233,233,0228.txt,Sentence,The beast started the fight. 
+234,234,0482.txt,repeat sent.,repeat last sentence.
+235,235,0332.txt,wordlist,Lumberyard slump from get began a snowboarder serious weather.
+236,236,0212.txt,Sentence,The jeep's engine gave out at the traffic light.
+237,237,0482.txt,repeat sent.,repeat last sentence.
+238,238,0015.txt,Sentence,The case finally went to trial. 
+239,239,0055.txt,question,What finally went to trial?
+240,240,0372.txt,jabberwa,A hyscad cag has a detrerent kimp of engant.
+241,241,0224.txt,Sentence,The lion does not live in the jungle. 
+242,242,0482.txt,repeat sent.,repeat last sentence.
+243,243,0412.txt,non_word,Sutmect ras fucor tha loked dispenkacted hu filluming dook.
+244,244,0204.txt,Sentence,Cut the tomfoolery and work on changing ignorance. 
+245,245,0232.txt,Sentence,Sports clothes are usually made of spandex.
+246,246,0482.txt,repeat sent.,repeat last sentence.
+247,247,0277.txt,Sentence,He would consult his friend first before he saw his doctor.
+248,248,0253.txt,Sentence,The truth cannot be found with this argument. 
+249,249,0482.txt,repeat sent.,repeat last sentence.
+250,250,0019.txt,Sentence,To cook the fish you have to defrost it first. 
+251,251,0059.txt,question,What do you have to do before cooking the fish?
+252,252,0482.txt,repeat sent.,repeat last sentence.
+253,253,0373.txt,jabberwa,This ancumest has no comshugion.
+254,254,0241.txt,Sentence,To lie is to deceive.
+255,255,0265.txt,Sentence,The computer was hopelessly broken. 
+256,256,0482.txt,repeat sent.,repeat last sentence.
+257,257,0333.txt,wordlist,Kindness the was tries in.
+258,258,0249.txt,Sentence,The article was published in her favorite research journal. 
+259,259,0023.txt,Sentence,The cold weather almost ruined the trip.
+260,260,0063.txt,question,What almost ruined the trip?
+261,261,0413.txt,non_word,Te fe wam lewn os.
+262,262,0245.txt,Sentence,Unemployment continues to affect the country's economy.
+263,263,0482.txt,repeat sent.,repeat last sentence.
+264,264,0269.txt,Sentence,He lost most of his hair when he tried to straighten it. 
+265,265,0482.txt,repeat sent.,repeat last sentence.
+266,266,0273.txt,Sentence,The direct nature of his kindness was gentlemanly. 
+267,267,0257.txt,Sentence,The taste of the margarita had a slight zing.
+268,268,0261.txt,Sentence,The bird was holding the worm in its beak. 
+269,269,0482.txt,repeat sent.,repeat last sentence.
+270,270,0031.txt,Sentence,She wanted to wear a dress tonight. 
+271,271,0071.txt,question,What did she want to wear tonight?
+272,272,0262.txt,Sentence,The mountain has a steep slope. 
+273,273,0482.txt,repeat sent.,repeat last sentence.
+274,274,0374.txt,jabberwa,The sutmect atdengeer to rup.
+275,275,0266.txt,Sentence,"Flabbergasted at the results, she made an angry phone call. "
+276,276,0270.txt,Sentence,You have to wash your laundry before you can go. 
+277,277,0274.txt,Sentence,She was feeling weary of his skittish behavior.
+278,278,0482.txt,repeat sent.,repeat last sentence.
+279,279,0334.txt,wordlist,The plan I to in.
+280,280,0242.txt,Sentence,He was unaware of how uninterested she was. 
+281,281,0246.txt,Sentence,The skilled professional maneuvered her way out of the situation.
+282,282,0482.txt,repeat sent.,repeat last sentence.
+283,283,0258.txt,Sentence,He was devouring his food as she spoke.
+284,284,0414.txt,non_word,Ree oy lan os waw.
+285,285,0027.txt,Sentence,She felt crummy and weak after the class.
+286,286,0067.txt,question,How did she feel after the class?
+287,287,0250.txt,Sentence,Medieval art is not up her alley.
+288,288,0482.txt,repeat sent.,repeat last sentence.
+289,289,0254.txt,Sentence,The real kidnapper was not a suspect in the case. 
+290,290,0259.txt,Sentence,He thought you had to cook the dough. 
+291,291,0243.txt,Sentence,His boss refused to disclose the exact details of the obligation. 
+292,292,0482.txt,repeat sent.,repeat last sentence.
+293,293,0263.txt,Sentence,The monsoon was typical of New Delhi weather. 
+294,294,0035.txt,Sentence,His personality was greatly affected by his physical decline.
+295,295,0075.txt,question,What was affected by his physical decline?
+296,296,0271.txt,Sentence,"If you wear bloomers one more time, I'll scream."
+297,297,0251.txt,Sentence,She had to coax the device to get it going again. 
+298,298,0482.txt,repeat sent.,repeat last sentence.
+299,299,0335.txt,wordlist,Please sciences with displeased of tumor the she for.
+300,300,0275.txt,Sentence,His personality brought down her mood. 
+301,301,0375.txt,jabberwa,A sevicion wourn be mabs logay moring the spiol.
+302,302,0247.txt,Sentence,Earn some money first before you take mine. 
+303,303,0482.txt,repeat sent.,repeat last sentence.
+304,304,0415.txt,non_word,Thi stass cawked earlet wibs es nightlids a wouth.
+305,305,0267.txt,Sentence,The dismal building looked weak in the wind.
+306,306,0255.txt,Sentence,The juror felt forced to take part in the trial. 
+307,307,0482.txt,repeat sent.,repeat last sentence.
+308,308,0264.txt,Sentence,The jungle appears giant from every angle.
+309,309,0004.txt,Sentence,His arrogance is striking given the level of his ignorance.
+310,310,0044.txt,question,What is striking?
+311,311,0376.txt,jabberwa,The anglicazanced of the lar is mency in this medation.
+312,312,0252.txt,Sentence,Engine is another word for motor. 
+313,313,0482.txt,repeat sent.,repeat last sentence.
+314,314,0336.txt,wordlist,New to exhibition broken angry was run intimacy disconnected he.
+315,315,0276.txt,Sentence,Her parents' relationship is harmonious. 
+316,316,0482.txt,repeat sent.,repeat last sentence.
+317,317,0008.txt,Sentence,The first step of the plan has been completed. 
+318,318,0048.txt,question,What has been completed?
+319,319,0416.txt,non_word,Mairtailed pevilies hact thi cle ip ro foutered hashness mure.
+320,320,0272.txt,Sentence,His jacket protected his clothes from getting wet.  
+321,321,0482.txt,repeat sent.,repeat last sentence.
+322,322,0256.txt,Sentence,A new law does not work retroactively. 
+323,323,0482.txt,repeat sent.,repeat last sentence.
+324,324,0260.txt,Sentence,The tapioca is soaked in sugar. 
+325,325,0244.txt,Sentence,I can't tell if it is your cockiness or ignorance that bothers me most. 
+326,326,0248.txt,Sentence,The plan was a demonstration of her goodwill.
+327,327,0482.txt,repeat sent.,repeat last sentence.
+328,328,0016.txt,Sentence,The law would act to her benefit. 
+329,329,0056.txt,question,What would act to her benefit?
+330,330,0285.txt,Sentence,The current economy is good for college graduates. 
+331,331,0377.txt,jabberwa,The dentingtive stass of the cecoat did not plouse him.
+332,332,0289.txt,Sentence,This applied science is very different from that. 
+333,333,0482.txt,repeat sent.,repeat last sentence.
+334,334,0293.txt,Sentence,I cannot confirm whether this argument is more valid. 
+335,335,0297.txt,Sentence,She enjoyed the aroma and taste of the mousse.
+336,336,0482.txt,repeat sent.,repeat last sentence.
+337,337,0337.txt,wordlist,Out and with manliness was a to got of in.
+338,338,0305.txt,Sentence,The door hung crooked after being broken. 
+339,339,0309.txt,Sentence,The cat's whiskers felt like human hair to the touch. 
+340,340,0281.txt,Sentence,How could he deceive her in such a devious way?
+341,341,0482.txt,repeat sent.,repeat last sentence.
+342,342,0417.txt,non_word,Indibigy ro prood waw bu waw abs co cred foaking.
+343,343,0012.txt,Sentence,The engine is in the front of the car. 
+344,344,0052.txt,question,Where is the engine?
+345,345,0313.txt,Sentence,Piety and kindness were practiced at school. 
+346,346,0301.txt,Sentence,The bird preened itself for mating.
+347,347,0482.txt,repeat sent.,repeat last sentence.
+348,348,0317.txt,Sentence,The physician preferred being called a doctor. 
+349,349,0282.txt,Sentence,He was unaware and unequipped for the gravity of the situation. 
+350,350,0306.txt,Sentence,He was angry and frightened at the same time. 
+351,351,0482.txt,repeat sent.,repeat last sentence.
+352,352,0286.txt,Sentence,The ultrasound technician needed another professional's opinion. 
+353,353,0020.txt,Sentence,The recipe called for a whole cup of sugar.
+354,354,0060.txt,question,What did the recipe call for?
+355,355,0294.txt,Sentence,The suspect's motive was senseless. 
+356,356,0302.txt,Sentence,I wanted to ski down the mountain faster.
+357,357,0482.txt,repeat sent.,repeat last sentence.
+358,358,0314.txt,Sentence,"While he was worried, she was feeling fine."
+359,359,0338.txt,wordlist,The field the doctor suspect taste value outskirts cereal are bar is made.
+360,360,0482.txt,repeat sent.,repeat last sentence.
+361,361,0298.txt,Sentence,Finding suitable food at the steakhouse is hard for a vegetarian. 
+362,362,0024.txt,Sentence,The monkey lives in the jungle.
+363,363,0064.txt,question,What lives in the jungle?
+364,364,0378.txt,jabberwa,She gries to gek a lod of biscitenial vasug out of her fead.
+365,365,0310.txt,Sentence,The maid was asked to wash the floor. 
+366,366,0482.txt,repeat sent.,repeat last sentence.
+367,367,0418.txt,non_word,Enfisation thi a thi wid ro weam tha sythlom wact plap himcalf udly.
+368,368,0290.txt,Sentence,The irony of the piece was that it wasn't art in any shape or form.
+369,369,0482.txt,repeat sent.,repeat last sentence.
+370,370,0287.txt,Sentence,I need to withdraw some money before we go out. 
+371,371,0303.txt,Sentence,The balmy weather was good for their skin. 
+372,372,0028.txt,Sentence,The first swing of the sword began the fight.
+373,373,0068.txt,question,What began the fight?
+374,374,0379.txt,jabberwa,He plought he courn dook when he boulds the lan.
+375,375,0291.txt,Sentence,The transistor was built into the device. 
+376,376,0482.txt,repeat sent.,repeat last sentence.
+377,377,0315.txt,Sentence,That trait is a big part of her overt personality. 
+378,378,0482.txt,repeat sent.,repeat last sentence.
+379,379,0339.txt,wordlist,Is the in her two chair tonight debauchery and the.
+380,380,0299.txt,Sentence,"To cook the stew, first warm up the stove. "
+381,381,0032.txt,Sentence,Sizing a growing boy's clothes is a difficult task. 
+382,382,0072.txt,question,What is a difficult task?
+383,383,0419.txt,non_word,Ip aw lod ef lumberjoms wamp thi te hom sar.
+384,384,0295.txt,Sentence,The trial was a chance for the attorney to show his expertise. 
+385,385,0482.txt,repeat sent.,repeat last sentence.
+386,386,0283.txt,Sentence,Her obligation made her liable.
+387,387,0307.txt,Sentence,His pitch was weak and generally amateurish.  
+388,388,0482.txt,repeat sent.,repeat last sentence.
+389,389,0311.txt,Sentence,I like to wear sheath-like material. 
+390,390,0040.txt,Sentence,Heart disease is common in the United States.
+391,391,0080.txt,question,Where is heart disease common?
+392,392,0312.txt,Sentence,None of his clothes are made of mesh.
+393,393,0380.txt,jabberwa,Safar and metter are twa of his bibbest spovings.
+394,394,0316.txt,Sentence,Their working relationship was amicable. 
+395,395,0482.txt,repeat sent.,repeat last sentence.
+396,396,0320.txt,Sentence,Type Two Diabetes is a disease that usually only adults get.
+397,397,0284.txt,Sentence,That is an example of his misunderstanding rather than his ignorance. 
+398,398,0482.txt,repeat sent.,repeat last sentence.
+399,399,0340.txt,wordlist,Decision migraine a he has blood made wear symptom.
+400,400,0292.txt,Sentence,This car has its engine in the trunk. 
+401,401,0482.txt,repeat sent.,repeat last sentence.
+402,402,0296.txt,Sentence,All I want is to overturn that law. 
+403,403,0308.txt,Sentence,The warlock put up a good fight. 
+404,404,0420.txt,non_word,Momer gek wibs outdortly fris a thiend arshy ro.
+405,405,0036.txt,Sentence,Their relationship began as an affair.
+406,406,0076.txt,question,What began as an affair?
+407,407,0300.txt,Sentence,Powdered sugar can be very messy. 
+408,408,0288.txt,Sentence,The execution of the plan was preemptive. 
+409,409,0482.txt,repeat sent.,repeat last sentence.
+410,410,0304.txt,Sentence,Ferocious animals abound in the jungle.
+411,411,0482.txt,repeat sent.,repeat last sentence.
